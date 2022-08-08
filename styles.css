@@ -1,18 +1,14 @@
-<style>body {
-  background-color: yellow;
+
+              body {
+  background-color: gray;
   margin: 0;
 }
 
 .name {
   display: inline;
-  color: rgb(255, 255, 255);
+  color: white;
 }
 
-header {
-  background-image: url(bg.jpg);
-  background-size: cover;
-  background-repeat: no-repeat;
-}
 
 .portrait {
   border-width: 6px;
@@ -29,13 +25,9 @@ nav {
 }
 
 nav a {
-  color: black;
+  color: orangered;
   text-decoration: none;
   margin: 6px;
 }
 
-.filter {
-  background-color: rgba(0, 0, 0, 0.7);
-  padding: 16px;
-}
-</style>
+          
